@@ -1,2 +1,2 @@
 # Codes
-Codes made during august/2021 onward
+Codes made during Data Science Introduction Subject
